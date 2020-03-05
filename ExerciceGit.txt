@@ -1,0 +1,40 @@
+Exercice intégrateur Git
+
+Ouvrir PratiqueGit IntelliJ et faire les missions suivantes :
+
+Mission #1
+    - créer une branche bug_fixes à partir de master
+    - corriger les bugs et faire les commits dans cette branche
+
+Mission #2
+    - revenir dans master
+    - créer une branche better_oo à partir de master
+    - mettre les variables private
+    - ajouter des getters et setters
+    - ne corrigez PAS les bugs
+    - faire les commits dans better_oo
+
+Mission #3
+    - revenir dans master
+    - créer une branche super_vector à partir de master
+    - faire une classe Vecteur qui utilise Point pour les coordonnées
+    - utiliser des doubles pour x et y dans Point au lieu des int
+    - ne changez RIEN d'autre dans Point
+    - ne corrigez PAS les bugs
+    - faire les commits dans super_vector
+
+Mission #4
+    - revenir dans master
+
+    - intégrer la branche bug_fixes
+    - résoudre les conflits (s'il y en a)
+
+    - intégrer la branche better_oo
+    - résoudre les conflits (s'il y en a)
+
+    - intégrer la branche super_vector
+    - résoudre les conflits (s'il y en a)
+
+    - s'assurer que le programme fonctionne
+
+Terminé !

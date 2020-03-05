@@ -1,6 +1,6 @@
 Exercice intégrateur Git
 
-Ouvrir PratiqueGit IntelliJ et faire les missions suivantes :
+Ouvrir ExerciceGit avec IntelliJ et faire les missions suivantes:
 
 Mission #1
     - créer une branche bug_fixes à partir de master
@@ -26,15 +26,15 @@ Mission #3
 Mission #4
     - revenir dans master
 
-    - intégrer la branche bug_fixes
+    - intégrer (merge) la branche bug_fixes
     - résoudre les conflits (s'il y en a)
 
-    - intégrer la branche better_oo
+    - intégrer (merge) la branche better_oo
     - résoudre les conflits (s'il y en a)
 
-    - intégrer la branche super_vector
+    - intégrer (merge) la branche super_vector
     - résoudre les conflits (s'il y en a)
 
     - s'assurer que le programme fonctionne
 
-Terminé !
+Terminé!
